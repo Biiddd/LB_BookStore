@@ -4,7 +4,7 @@
       <div class="top">
         <div class="logo">
           <img
-            src="~@/assets/img/login-logo.png"
+            src="~@/assets/img/LB-logo.png"
             alt=""
           >
         </div>
@@ -167,6 +167,10 @@ const getCaptcha = () => {
     }
     .mid {
       font-size: 14px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
       .item-btn {
         width: 410px;
         margin-top: 20px;

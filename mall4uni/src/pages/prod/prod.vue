@@ -508,6 +508,7 @@ const addOrCannelCollection = () => {
 }
 
 const skuList = ref([])
+const author = ref('')
 const publisher = ref('')
 const prodNum = ref(1)
 const pic = ref('')
@@ -540,6 +541,7 @@ const getProdInfo = () => {
       price.value = data.price
       prodName.value = data.prodName
       prodId = data.prodId
+      author.value = data.author
       publisher.value = data.publisher
       skuList.value = data.skuList
       pic.value = data.pic
