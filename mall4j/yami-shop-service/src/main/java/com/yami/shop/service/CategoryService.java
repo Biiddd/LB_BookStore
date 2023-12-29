@@ -16,7 +16,7 @@ import com.yami.shop.bean.model.Category;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  * 商品分类
  */
 public interface CategoryService extends IService<Category> {

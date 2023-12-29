@@ -16,7 +16,7 @@ import jakarta.validation.constraints.NotBlank;
 /**
  * 刷新token
  *
- * @author 菠萝凤梨
+ * @ 菠萝凤梨
  * @date 2022/3/25 17:33
  */
 public class RefreshTokenDTO {

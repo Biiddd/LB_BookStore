@@ -16,7 +16,7 @@ import com.yami.shop.sys.model.SysConfig;
 
 /**
  * 系统配置信息
- * @author lgh
+ * @ lgh
  */
 public interface SysConfigService extends IService<SysConfig>  {
 

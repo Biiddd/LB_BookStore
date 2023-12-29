@@ -19,7 +19,7 @@ import com.yami.shop.bean.model.Notice;
 /**
  * 公告管理
  *
- * @author hzm
+ * @ hzm
  * @date 2019-04-18 21:21:40
  */
 public interface NoticeMapper extends BaseMapper<Notice> {

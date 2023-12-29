@@ -18,7 +18,7 @@ import java.util.Map;
 
 /**
  *
- * @author lgh on 2018/11/29.
+ * @ lgh on 2018/11/29.
  */
 public interface SmsLogService extends IService<SmsLog> {
 	/**

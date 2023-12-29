@@ -14,7 +14,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public class Arith {
     /**

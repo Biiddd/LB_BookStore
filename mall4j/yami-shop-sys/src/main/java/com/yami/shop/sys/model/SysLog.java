@@ -20,7 +20,7 @@ import java.util.Date;
 
 /**
  * 系统日志
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_sys_log")

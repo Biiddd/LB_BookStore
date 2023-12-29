@@ -99,17 +99,10 @@ const loadProdData = (options) => {
     // 新书推荐
     const url = '/prod/lastedProdPage'
     getActProd(url)
-  } else if (stsParam == 2) {
-    // 限时特惠
-    const url = '/prod/discountProdList'
-    getActProd(url)
   } else if (stsParam == 3) {
     // 每日疯抢
     const url = '/prod/moreBuyProdList'
     getActProd(url)
-  } else if (stsParam == 4) {
-    // 优惠券商品列表
-    getProdByCouponId(options.tagid)
   } else if (stsParam == 5) {
     // 收藏商品列表
     getCollectionProd()

@@ -18,7 +18,7 @@ import jakarta.validation.constraints.NotBlank;
 
 /**
  * 系统配置信息
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_sys_config")

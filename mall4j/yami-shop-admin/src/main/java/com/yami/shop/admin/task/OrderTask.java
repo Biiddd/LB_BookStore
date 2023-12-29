@@ -29,7 +29,7 @@ import java.util.List;
 
 
 /**
- * @author FrozenWatermelon
+ * @ FrozenWatermelon
  * 定时任务的配置，请查看xxl-job的java配置文件。
  * @see com.yami.shop.admin.config.XxlJobConfig
  */

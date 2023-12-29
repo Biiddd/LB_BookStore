@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface SkuMapper extends BaseMapper<Sku> {
 

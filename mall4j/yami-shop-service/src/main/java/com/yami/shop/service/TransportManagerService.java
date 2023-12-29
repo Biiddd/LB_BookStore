@@ -14,7 +14,7 @@ import com.yami.shop.bean.app.dto.ProductItemDto;
 import com.yami.shop.bean.model.UserAddr;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface TransportManagerService {
 	/**

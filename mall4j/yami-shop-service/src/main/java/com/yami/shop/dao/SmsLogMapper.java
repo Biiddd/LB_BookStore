@@ -16,7 +16,7 @@ import com.yami.shop.bean.model.SmsLog;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface SmsLogMapper extends BaseMapper<SmsLog> {
 	/**

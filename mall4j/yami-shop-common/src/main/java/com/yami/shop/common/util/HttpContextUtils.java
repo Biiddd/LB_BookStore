@@ -16,7 +16,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import jakarta.servlet.http.HttpServletRequest;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public class HttpContextUtils {
 

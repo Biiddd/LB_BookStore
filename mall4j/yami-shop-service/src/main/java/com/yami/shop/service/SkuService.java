@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  *
- * @author lgh on 2018/09/29.
+ * @ lgh on 2018/09/29.
  */
 public interface SkuService extends IService<Sku> {
 

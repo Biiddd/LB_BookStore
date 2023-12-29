@@ -29,7 +29,7 @@ import io.swagger.v3.oas.annotations.Operation;
 import cn.hutool.core.bean.BeanUtil;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @RestController
 @RequestMapping("/category")

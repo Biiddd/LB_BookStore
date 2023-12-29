@@ -13,7 +13,7 @@ package com.yami.shop.bean.enums;
 
 /**
  * 运费收费方式 （0 按件数,1 按重量 2 按体积）
- * @author LGH
+ * @ LGH
  */
 public enum TransportChargeType {
 

@@ -16,7 +16,7 @@ import com.yami.shop.security.common.util.AuthUserContext;
 import lombok.experimental.UtilityClass;
 
 /**
- * @author LGH
+ * @ LGH
  */
 @UtilityClass
 public class SecurityUtils {

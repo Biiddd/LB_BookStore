@@ -17,7 +17,7 @@ import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @Schema(description = "购物车物品参数")

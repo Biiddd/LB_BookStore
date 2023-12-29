@@ -43,6 +43,9 @@
               <view class="hotprod-text">
                 {{ prod.prodName }}
               </view>
+              <view class="prod-author">
+                {{ prod.author }}
+              </view>
               <view class="prod-info">
                 {{ prod.publisher }}
               </view>

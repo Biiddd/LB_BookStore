@@ -27,7 +27,7 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 
 /**
- * @author lgh
+ * @ lgh
  */
 @Aspect
 @Component

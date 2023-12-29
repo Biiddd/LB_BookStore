@@ -15,7 +15,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import lombok.Data;
 
 /**
- * @author lh
+ * @ lh
  */
 @Data
 public class PageAdapter{

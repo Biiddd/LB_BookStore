@@ -27,7 +27,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author lgh on 2018/10/26.
+ * @ lgh on 2018/10/26.
  */
 @RestController
 @RequestMapping("/admin/area")

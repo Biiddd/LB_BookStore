@@ -14,7 +14,7 @@ import lombok.Data;
 
 /**
  * 本地存储配置信息
- * @author lgh
+ * @ lgh
  */
 @Data
 public class ImgUpload {

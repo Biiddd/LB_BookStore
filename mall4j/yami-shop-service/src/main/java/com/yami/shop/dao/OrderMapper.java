@@ -24,7 +24,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface OrderMapper extends BaseMapper<Order> {
 

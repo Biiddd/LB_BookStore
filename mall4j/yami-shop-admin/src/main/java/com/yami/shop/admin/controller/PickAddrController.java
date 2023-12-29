@@ -32,7 +32,7 @@ import java.util.Objects;
 
 /**
  *
- * @author lgh on 2018/10/17.
+ * @ lgh on 2018/10/17.
  */
 @RestController
 @RequestMapping("/shop/pickAddr")

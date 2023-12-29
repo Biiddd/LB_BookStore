@@ -23,7 +23,7 @@ import java.io.IOException;
 /**
  * 一些简单的安全过滤：
  * xss
- * @author lgh
+ * @ lgh
  */
 @Component
 public class XssFilter implements Filter {

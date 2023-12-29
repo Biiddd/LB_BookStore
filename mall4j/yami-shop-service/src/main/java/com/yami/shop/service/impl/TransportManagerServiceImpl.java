@@ -26,7 +26,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Objects;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class TransportManagerServiceImpl implements TransportManagerService {

@@ -12,7 +12,7 @@ package com.yami.shop.bean.dto;
 
 /**
  * 富文本编辑器 图片上传返回数据
- * @author lgh
+ * @ lgh
  */
 public class TinymceEditorDto {
 

@@ -27,7 +27,7 @@ import java.util.Objects;
 
 /**
  * 参数管理
- * @author lgh
+ * @ lgh
  */
 @RestController
 @RequestMapping("/admin/attribute")

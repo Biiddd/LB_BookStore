@@ -20,7 +20,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * @date 2022/3/25 17:33
- * @author lh
+ * @ lh
  */
 @Component
 public class PasswordCheckManager {

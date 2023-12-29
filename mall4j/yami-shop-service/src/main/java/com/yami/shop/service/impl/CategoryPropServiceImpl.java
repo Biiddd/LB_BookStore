@@ -19,7 +19,7 @@ import com.yami.shop.dao.CategoryPropMapper;
 import com.yami.shop.service.CategoryPropService;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class CategoryPropServiceImpl extends ServiceImpl<CategoryPropMapper, CategoryProp> implements CategoryPropService {

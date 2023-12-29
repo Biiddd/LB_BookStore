@@ -19,7 +19,7 @@ import org.springframework.util.StringUtils;
 
 /**
  * 接口权限判断工具
- * @author lh
+ * @ lh
  */
 @Slf4j
 @Component("pms")

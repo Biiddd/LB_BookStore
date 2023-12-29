@@ -18,7 +18,7 @@ import com.yami.shop.bean.model.Order;
 
 /**
  * 我的订单
- * @author lgh
+ * @ lgh
  */
 public interface MyOrderService extends IService<Order> {
 

@@ -21,7 +21,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class BrandServiceImpl extends ServiceImpl<BrandMapper, Brand> implements BrandService {

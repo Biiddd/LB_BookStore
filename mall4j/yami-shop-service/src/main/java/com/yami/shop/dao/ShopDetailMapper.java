@@ -15,7 +15,7 @@ import com.yami.shop.bean.model.ShopDetail;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface ShopDetailMapper extends BaseMapper<ShopDetail> {
 }

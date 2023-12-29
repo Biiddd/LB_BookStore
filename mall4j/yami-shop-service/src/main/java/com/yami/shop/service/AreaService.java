@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author lgh on 2018/10/26.
+ * @ lgh on 2018/10/26.
  */
 public interface AreaService extends IService<Area> {
 

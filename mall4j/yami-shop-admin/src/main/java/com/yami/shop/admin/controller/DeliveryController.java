@@ -23,7 +23,7 @@ import com.yami.shop.service.DeliveryService;
 
 /**
  *
- * @author lgh on 2018/11/26.
+ * @ lgh on 2018/11/26.
  */
 @RestController
 @RequestMapping("/admin/delivery")

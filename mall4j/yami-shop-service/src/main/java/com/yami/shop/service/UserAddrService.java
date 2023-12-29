@@ -14,7 +14,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import com.yami.shop.bean.model.UserAddr;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface UserAddrService extends IService<UserAddr> {
 	/**

@@ -19,7 +19,7 @@ import com.yami.shop.dao.ProdPropValueMapper;
 import com.yami.shop.service.ProdPropValueService;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class ProdPropValueServiceImpl extends ServiceImpl<ProdPropValueMapper, ProdPropValue> implements ProdPropValueService {

@@ -17,7 +17,7 @@ import com.yami.shop.bean.model.UserAddr;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface UserAddrMapper extends BaseMapper<UserAddr> {
 	/**

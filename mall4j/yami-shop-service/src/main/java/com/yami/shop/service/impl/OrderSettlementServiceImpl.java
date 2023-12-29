@@ -20,7 +20,7 @@ import com.yami.shop.service.OrderSettlementService;
 
 /**
  *
- * @author lgh on 2018/11/10.
+ * @ lgh on 2018/11/10.
  */
 @Service
 public class OrderSettlementServiceImpl extends ServiceImpl<OrderSettlementMapper, OrderSettlement> implements OrderSettlementService {

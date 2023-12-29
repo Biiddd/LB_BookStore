@@ -32,7 +32,7 @@ import java.util.Objects;
 
 /**
  * 系统菜单
- * @author lgh
+ * @ lgh
  */
 @RestController
 @RequestMapping("/sys/menu")

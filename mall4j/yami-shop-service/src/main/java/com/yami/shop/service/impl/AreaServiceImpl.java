@@ -27,7 +27,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author lgh on 2018/10/26.
+ * @ lgh on 2018/10/26.
  */
 @Service
 public class AreaServiceImpl extends ServiceImpl<AreaMapper, Area> implements AreaService {

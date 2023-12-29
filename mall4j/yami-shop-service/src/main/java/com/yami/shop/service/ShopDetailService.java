@@ -15,7 +15,7 @@ import com.yami.shop.bean.model.ShopDetail;
 
 /**
  *
- * @author lgh on 2018/08/29.
+ * @ lgh on 2018/08/29.
  */
 public interface ShopDetailService extends IService<ShopDetail> {
 	/**

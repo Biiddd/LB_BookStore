@@ -18,7 +18,7 @@ import com.yami.shop.sys.model.SysRole;
 
 /**
  * 角色
- * @author lgh
+ * @ lgh
  */
 public interface SysRoleService extends IService<SysRole> {
 

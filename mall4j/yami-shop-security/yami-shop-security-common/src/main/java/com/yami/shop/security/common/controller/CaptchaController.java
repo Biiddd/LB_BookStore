@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author 菠萝凤梨
+ * @ 菠萝凤梨
  * @date 2022/3/25 17:33
  */
 @RestController

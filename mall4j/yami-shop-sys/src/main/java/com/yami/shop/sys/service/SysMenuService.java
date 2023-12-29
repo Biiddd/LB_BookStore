@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  * 菜单管理
- * @author lgh
+ * @ lgh
  */
 public interface SysMenuService extends IService<SysMenu> {
 

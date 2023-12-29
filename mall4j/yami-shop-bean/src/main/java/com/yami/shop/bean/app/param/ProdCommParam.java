@@ -16,7 +16,7 @@ import lombok.Data;
 import jakarta.validation.constraints.NotNull;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @Schema(description = "添加评论信息")

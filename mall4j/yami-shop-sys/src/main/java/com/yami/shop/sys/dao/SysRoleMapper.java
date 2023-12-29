@@ -17,7 +17,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  * 角色管理
  */
 public interface SysRoleMapper extends BaseMapper<SysRole>{

@@ -16,7 +16,7 @@ import com.yami.shop.bean.param.UserRegisterParam;
 
 /**
  *
- * @author lgh on 2018/09/11.
+ * @ lgh on 2018/09/11.
  */
 public interface UserService extends IService<User> {
     /**

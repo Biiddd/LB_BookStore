@@ -23,7 +23,7 @@ import java.util.List;
 
 /**
  * 菜单管理
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_sys_menu")

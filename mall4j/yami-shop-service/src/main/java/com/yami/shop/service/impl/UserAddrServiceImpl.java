@@ -22,7 +22,7 @@ import com.yami.shop.common.exception.YamiShopBindException;
 import com.yami.shop.dao.UserAddrMapper;
 import com.yami.shop.service.UserAddrService;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class UserAddrServiceImpl extends ServiceImpl<UserAddrMapper, UserAddr> implements UserAddrService {

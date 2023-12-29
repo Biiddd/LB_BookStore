@@ -13,7 +13,7 @@ package com.yami.shop.bean.app.param;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @Schema(description = "设置用户信息")

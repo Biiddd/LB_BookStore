@@ -21,7 +21,7 @@ import jakarta.validation.constraints.Size;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 public class ProductParam {

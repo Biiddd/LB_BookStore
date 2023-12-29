@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * @author TRACK
+ * @ TRACK
  */
 @Configuration
 public class ResourceConfigAdapter implements WebMvcConfigurer {

@@ -21,7 +21,7 @@ import com.yami.shop.service.DeliveryService;
 
 /**
  *
- * @author lgh on 2018/11/26.
+ * @ lgh on 2018/11/26.
  */
 @Service
 public class DeliveryServiceImpl extends ServiceImpl<DeliveryMapper, Delivery> implements DeliveryService {

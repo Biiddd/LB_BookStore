@@ -15,7 +15,7 @@ import com.yami.shop.bean.model.Transfee;
 
 /**
  *
- * @author lgh on 2018/11/16.
+ * @ lgh on 2018/11/16.
  */
 public interface TransfeeService extends IService<Transfee> {
 

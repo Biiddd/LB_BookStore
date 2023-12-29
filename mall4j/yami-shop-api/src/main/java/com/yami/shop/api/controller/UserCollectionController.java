@@ -32,7 +32,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Date;
 import java.util.Objects;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @RestController
 @RequestMapping("/p/user/collection")

@@ -19,7 +19,7 @@ import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_order_refund")

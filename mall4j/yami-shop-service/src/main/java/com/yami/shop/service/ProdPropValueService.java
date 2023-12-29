@@ -14,7 +14,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import com.yami.shop.bean.model.ProdPropValue;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface ProdPropValueService extends IService<ProdPropValue> {
 

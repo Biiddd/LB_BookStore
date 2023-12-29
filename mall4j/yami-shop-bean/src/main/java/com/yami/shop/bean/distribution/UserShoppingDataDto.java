@@ -15,7 +15,7 @@ import lombok.Data;
 
 /**
  * 用户购物数据
- * @author lanhai
+ * @ lanhai
  */
 @Data
 public class UserShoppingDataDto {

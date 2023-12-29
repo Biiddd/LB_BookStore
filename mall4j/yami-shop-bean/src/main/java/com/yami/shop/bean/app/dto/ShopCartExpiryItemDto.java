@@ -16,7 +16,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @Schema(description = "购物车失效商品对象")

@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  * 购物车商品发生改变时的事件
- * @author LGH
+ * @ LGH
  */
 @Data
 @AllArgsConstructor

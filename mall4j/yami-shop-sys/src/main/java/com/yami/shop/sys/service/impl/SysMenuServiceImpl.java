@@ -28,7 +28,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author lgh
+ * @ lgh
  */
 @Service("sysMenuService")
 @AllArgsConstructor

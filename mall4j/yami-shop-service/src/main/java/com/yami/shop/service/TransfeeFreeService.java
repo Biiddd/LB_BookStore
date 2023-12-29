@@ -15,7 +15,7 @@ import com.yami.shop.bean.model.TransfeeFree;
 
 /**
  *
- * @author lgh on 2018/12/20.
+ * @ lgh on 2018/12/20.
  */
 public interface TransfeeFreeService extends IService<TransfeeFree> {
 

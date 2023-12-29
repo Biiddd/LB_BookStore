@@ -12,7 +12,7 @@ package com.yami.shop.bean.order;
 
 /**
  * 购物车事件先后顺序
- * @author LGH
+ * @ LGH
  */
 public interface ShopCartEventOrder {
 

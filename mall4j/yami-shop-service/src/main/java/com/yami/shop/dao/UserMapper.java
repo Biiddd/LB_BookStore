@@ -15,7 +15,7 @@ import com.yami.shop.bean.model.User;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface UserMapper extends BaseMapper<User> {
 	/**

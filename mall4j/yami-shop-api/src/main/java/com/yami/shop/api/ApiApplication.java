@@ -18,7 +18,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.context.annotation.ComponentScan;
 
 /**
- * @author lgh
+ * @ lgh
  */
 @SpringBootApplication
 @ComponentScan(basePackages = {"com.yami.shop"})

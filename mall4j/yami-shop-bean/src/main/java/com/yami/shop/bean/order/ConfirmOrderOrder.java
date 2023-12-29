@@ -12,7 +12,7 @@ package com.yami.shop.bean.order;
 
 /**
  * 提交订单事件先后顺序
- * @author LGH
+ * @ LGH
  */
 public interface ConfirmOrderOrder {
 

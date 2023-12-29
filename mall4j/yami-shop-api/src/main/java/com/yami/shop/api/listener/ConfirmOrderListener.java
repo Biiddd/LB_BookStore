@@ -32,7 +32,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 确认订单信息时的默认操作
- * @author LGH
+ * @ LGH
  */
 @Component("defaultConfirmOrderListener")
 @AllArgsConstructor

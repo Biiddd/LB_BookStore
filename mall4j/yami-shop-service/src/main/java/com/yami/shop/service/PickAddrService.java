@@ -15,7 +15,7 @@ import com.yami.shop.bean.model.PickAddr;
 
 /**
  *
- * @author lgh on 2018/10/17.
+ * @ lgh on 2018/10/17.
  */
 public interface PickAddrService extends IService<PickAddr> {
 

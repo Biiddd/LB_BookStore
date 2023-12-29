@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 使用redis进行分布式锁
- * @author lanhai
+ * @ lanhai
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

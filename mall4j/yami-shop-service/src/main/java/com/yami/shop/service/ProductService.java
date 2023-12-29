@@ -23,7 +23,7 @@ import java.util.List;
 
 /**
  * 商品
- * @author lanhai
+ * @ lanhai
  */
 public interface ProductService extends IService<Product> {
 

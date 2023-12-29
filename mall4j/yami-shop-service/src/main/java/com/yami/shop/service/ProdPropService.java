@@ -17,7 +17,7 @@ import com.yami.shop.bean.model.ProdProp;
 
 /**
  *
- * @author  lgh on 2018/07/06.
+ * @  lgh on 2018/07/06.
  */
 public interface ProdPropService extends IService<ProdProp> {
 

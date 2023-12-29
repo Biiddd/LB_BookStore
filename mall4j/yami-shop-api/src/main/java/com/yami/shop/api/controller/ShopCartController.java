@@ -40,7 +40,7 @@ import java.util.Objects;
 import java.util.stream.Collectors;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @RestController
 @RequestMapping("/p/shopCart")

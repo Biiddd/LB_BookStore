@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  *
- * @author lgh on 2018/11/26.
+ * @ lgh on 2018/11/26.
  */
 public interface IndexImgService extends IService<IndexImg> {
 

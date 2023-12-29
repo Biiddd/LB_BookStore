@@ -104,24 +104,6 @@
         <!-- 订单详情 -->
         <view class="order-msg">
           <view class="msg-item">
-            <view
-              class="item coupon"
-              @tap="showCouponPopup"
-            >
-              <text class="item-tit">
-                优惠券：
-              </text>
-              <text
-                v-if="!coupons.canUseCoupons"
-                class="item-txt"
-              >
-                暂无可用
-              </text>
-              <text class="coupon-btn">
-                {{ coupons.totalLength ? coupons.totalLength : 0 }}张
-              </text>
-              <text class="arrow" />
-            </view>
             <view class="item">
               <text>买家留言：</text>
               <input
@@ -167,19 +149,7 @@
               </view>
             </view>
             <view class="item">
-              <view class="item-tit">
-                优惠金额：
-              </view>
               <view class="item-txt price">
-                <text class="symbol">
-                  -￥
-                </text>
-                <text class="big-num">
-                  {{ wxs.parsePrice(shopReduce)[0] }}
-                </text>
-                <text class="small-num">
-                  .{{ wxs.parsePrice(shopReduce)[1] }}
-                </text>
               </view>
             </view>
             <view class="item payment">

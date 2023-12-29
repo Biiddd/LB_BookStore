@@ -15,7 +15,7 @@ import com.yami.shop.sys.model.SysLog;
 
 /**
  * 系统日志
- * @author lanhai
+ * @ lanhai
  */
 public interface SysLogMapper extends BaseMapper<SysLog> {
 

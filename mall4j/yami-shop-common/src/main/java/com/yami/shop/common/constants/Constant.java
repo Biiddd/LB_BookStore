@@ -1,7 +1,7 @@
 package com.yami.shop.common.constants;
 
 /**
- * @author TRACK
+ * @ TRACK
  */
 public class Constant {
 

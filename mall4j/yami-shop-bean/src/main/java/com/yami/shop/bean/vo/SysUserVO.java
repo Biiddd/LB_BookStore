@@ -12,7 +12,7 @@ package com.yami.shop.bean.vo;
 
 import lombok.Data;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 public class SysUserVO {

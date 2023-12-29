@@ -20,7 +20,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Schema(description = "评论对象")
 @Data

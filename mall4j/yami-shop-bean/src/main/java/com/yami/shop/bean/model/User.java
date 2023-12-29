@@ -19,7 +19,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.io.Serializable;
 import java.util.Date;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_user")

@@ -20,7 +20,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 public class BasketItemDto implements Serializable {
@@ -58,6 +58,9 @@ public class BasketItemDto implements Serializable {
 
     @Schema(description = "产品原价" , required = true)
     private Double oriPrice;
+
+    @Schema(description = "产品作者" , required = true)
+    private String author;
 
     @Schema(description = "产品简介" , required = true)
     private String publisher;

@@ -17,7 +17,7 @@ import com.yami.shop.sys.model.SysLog;
 
 /**
  * 系统日志
- * @author lgh
+ * @ lgh
  */
 public interface SysLogService extends IService<SysLog> {
 

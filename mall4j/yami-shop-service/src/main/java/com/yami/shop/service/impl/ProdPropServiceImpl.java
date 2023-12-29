@@ -30,7 +30,7 @@ import jakarta.validation.Valid;
 import java.util.Objects;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class ProdPropServiceImpl extends ServiceImpl<ProdPropMapper, ProdProp> implements ProdPropService {

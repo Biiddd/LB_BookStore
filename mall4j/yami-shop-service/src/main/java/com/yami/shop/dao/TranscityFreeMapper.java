@@ -14,7 +14,7 @@ import com.yami.shop.bean.model.TranscityFree;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface TranscityFreeMapper extends BaseMapper<TranscityFree> {
 }

@@ -25,7 +25,7 @@ import org.springframework.security.config.annotation.method.configuration.Enabl
 /**
  * 授权配置
  *
- * @author 菠萝凤梨
+ * @ 菠萝凤梨
  * @date 2022/3/25 17:33
  */
 @Configuration

@@ -17,7 +17,7 @@ import com.yami.shop.bean.model.Transcity;
 
 /**
  *
- * @author lgh on 2018/11/16.
+ * @ lgh on 2018/11/16.
  */
 public interface TranscityService extends IService<Transcity> {
 

@@ -19,7 +19,7 @@ import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author lh
+ * @ lh
  */
 @Slf4j
 public class RedisUtil {

@@ -20,7 +20,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface BasketMapper extends BaseMapper<Basket> {
 

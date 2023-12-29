@@ -16,7 +16,7 @@ import java.io.Serializable;
 import java.util.Objects;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 public class ServerResponse<T> implements Serializable {

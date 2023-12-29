@@ -36,7 +36,7 @@ import java.util.List;
 /**
  * 授权过滤，只要实现AuthConfigAdapter接口，添加对应路径即可：
  *
- * @author 菠萝凤梨
+ * @ 菠萝凤梨
  * @date 2022/3/25 17:33
  */
 @Component

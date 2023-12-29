@@ -29,7 +29,7 @@ import cn.hutool.core.util.StrUtil;
 
 /**
  *
- * @author lgh on 2018/08/29.
+ * @ lgh on 2018/08/29.
  */
 @Service
 public class ShopDetailServiceImpl extends ServiceImpl<ShopDetailMapper, ShopDetail> implements ShopDetailService {

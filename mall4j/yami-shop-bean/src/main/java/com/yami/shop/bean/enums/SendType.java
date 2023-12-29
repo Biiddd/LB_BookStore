@@ -10,7 +10,7 @@
 package com.yami.shop.bean.enums;
 
 /**
- * @author lh
+ * @ lh
  */
 public enum SendType {
     /**

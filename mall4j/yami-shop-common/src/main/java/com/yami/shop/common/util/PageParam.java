@@ -18,7 +18,7 @@ import org.springdoc.core.annotations.ParameterObject;
 
 import java.util.List;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Schema
 @ParameterObject

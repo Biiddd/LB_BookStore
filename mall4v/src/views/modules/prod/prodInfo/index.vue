@@ -272,7 +272,7 @@ const onSubmit = Debounce(() => {
     param.deliveryModeVo = dataForm.value.deliveryMode
     // 商品主图
     param.pic = dataForm.value.imgs.split(',')[0]
-    param.author = dataForm.value.author
+    // param.author = dataForm.value.author
     http({
       url: http.adornUrl('/prod/prod'),
       method: param.prodId ? 'put' : 'post',

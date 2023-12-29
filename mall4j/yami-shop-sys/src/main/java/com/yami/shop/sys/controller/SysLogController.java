@@ -32,7 +32,7 @@ import cn.hutool.core.util.StrUtil;
 
 /**
  * 系统日志
- * @author lgh
+ * @ lgh
  */
 @RestController
 @RequestMapping("/sys/log")

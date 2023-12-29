@@ -17,7 +17,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  * 系统用户
  */
 public interface SysUserMapper extends BaseMapper<SysUser> {

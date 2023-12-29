@@ -40,7 +40,7 @@ import java.util.Objects;
 /**
  * 商品列表、商品发布controller
  *
- * @author lgh
+ * @ lgh
  */
 @RestController
 @RequestMapping("/prod/prod")

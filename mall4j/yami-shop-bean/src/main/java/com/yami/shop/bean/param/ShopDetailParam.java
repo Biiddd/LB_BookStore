@@ -14,7 +14,7 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public class ShopDetailParam {
 

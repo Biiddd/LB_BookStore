@@ -34,7 +34,7 @@ import java.util.stream.Collectors;
 
 /**
  *
- * @author lgh on 2018/08/29.
+ * @ lgh on 2018/08/29.
  */
 @RestController
 @RequestMapping("/shop/shopDetail")

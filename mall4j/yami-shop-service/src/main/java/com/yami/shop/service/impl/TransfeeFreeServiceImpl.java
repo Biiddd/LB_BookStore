@@ -21,7 +21,7 @@ import com.yami.shop.service.TransfeeFreeService;
 
 /**
  *
- * @author lgh on 2018/12/20.
+ * @ lgh on 2018/12/20.
  */
 @Service
 public class TransfeeFreeServiceImpl extends ServiceImpl<TransfeeFreeMapper, TransfeeFree> implements TransfeeFreeService {

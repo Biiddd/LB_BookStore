@@ -32,7 +32,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @RestController
 @RequestMapping("/search")

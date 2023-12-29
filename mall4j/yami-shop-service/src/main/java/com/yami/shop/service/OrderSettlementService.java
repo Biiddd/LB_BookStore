@@ -15,7 +15,7 @@ import com.yami.shop.bean.model.OrderSettlement;
 
 /**
  *
- * @author lgh on 2018/11/10.
+ * @ lgh on 2018/11/10.
  */
 public interface OrderSettlementService extends IService<OrderSettlement> {
 

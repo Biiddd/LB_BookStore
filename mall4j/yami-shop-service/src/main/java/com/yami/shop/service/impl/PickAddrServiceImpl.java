@@ -20,7 +20,7 @@ import com.yami.shop.service.PickAddrService;
 
 /**
  *
- * @author lgh on 2018/10/17.
+ * @ lgh on 2018/10/17.
  */
 @Service
 public class PickAddrServiceImpl extends ServiceImpl<PickAddrMapper, PickAddr> implements PickAddrService {

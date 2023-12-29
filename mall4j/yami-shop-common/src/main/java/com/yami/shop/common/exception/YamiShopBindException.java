@@ -15,7 +15,7 @@ import com.yami.shop.common.response.ServerResponseEntity;
 import lombok.Getter;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Getter
 public class YamiShopBindException extends RuntimeException{

@@ -14,7 +14,7 @@ import jakarta.servlet.http.HttpServletRequest;
 
 /**
  * IP帮助工具
- * @author lanhai
+ * @ lanhai
  */
 public class IpHelper {
     private static final String UNKNOWN = "unknown";

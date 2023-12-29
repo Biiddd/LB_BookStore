@@ -42,7 +42,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class ProductServiceImpl extends ServiceImpl<ProductMapper, Product> implements ProductService {

@@ -19,7 +19,7 @@ import com.yami.shop.dao.CategoryBrandMapper;
 import com.yami.shop.service.CategoryBrandService;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class CategoryBrandServiceImpl extends ServiceImpl<CategoryBrandMapper, CategoryBrand> implements CategoryBrandService {

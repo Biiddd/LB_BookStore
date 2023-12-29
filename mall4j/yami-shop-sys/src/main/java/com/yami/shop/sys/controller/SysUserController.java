@@ -40,7 +40,7 @@ import java.util.Objects;
 
 /**
  * 系统用户
- * @author lgh
+ * @ lgh
  */
 @RestController
 @RequestMapping("/sys/user")

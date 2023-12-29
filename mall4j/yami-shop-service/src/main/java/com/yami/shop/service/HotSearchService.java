@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  *
- * @author lgh on 2019/03/27.
+ * @ lgh on 2019/03/27.
  */
 public interface HotSearchService extends IService<HotSearch> {
 

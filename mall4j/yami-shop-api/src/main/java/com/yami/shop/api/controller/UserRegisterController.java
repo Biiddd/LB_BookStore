@@ -26,7 +26,7 @@ import java.util.Date;
 /**
  * 用户信息
  *
- * @author SJL
+ * @ SJL
  */
 @RestController
 @RequestMapping("/user")

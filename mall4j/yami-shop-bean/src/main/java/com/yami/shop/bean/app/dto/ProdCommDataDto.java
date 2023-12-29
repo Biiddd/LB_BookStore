@@ -14,7 +14,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Schema(description = "商品评论数据")
 @Data

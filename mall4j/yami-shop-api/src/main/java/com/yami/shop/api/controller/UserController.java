@@ -22,7 +22,7 @@ import cn.hutool.core.bean.BeanUtil;
 import com.yami.shop.common.response.ServerResponseEntity;
 import org.springframework.web.bind.annotation.*;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @RestController
 @RequestMapping("/p/user")

@@ -16,7 +16,7 @@ import java.io.Serializable;
 import java.util.Objects;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Slf4j
 public class ServerResponseEntity<T> implements Serializable {

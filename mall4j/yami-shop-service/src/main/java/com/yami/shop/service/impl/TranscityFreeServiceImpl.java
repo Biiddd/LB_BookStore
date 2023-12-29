@@ -21,7 +21,7 @@ import com.yami.shop.service.TranscityFreeService;
 
 /**
  *
- * @author lgh on 2018/12/20.
+ * @ lgh on 2018/12/20.
  */
 @Service
 public class TranscityFreeServiceImpl extends ServiceImpl<TranscityFreeMapper, TranscityFree> implements TranscityFreeService {

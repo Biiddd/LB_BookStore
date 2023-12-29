@@ -60,19 +60,19 @@
         </view>
         <view
           class="item"
-          data-sts="1"
-          @tap="toClassifyPage"
-        >
-          <image src="@/static/images/icon/timePrice.png" />
-          <text>限时特惠</text>
-        </view>
-        <view
-          class="item"
           data-sts="3"
           @tap="toClassifyPage"
         >
           <image src="@/static/images/icon/neweveryday.png" />
           <text>每日疯抢</text>
+        </view>
+        <view
+            class="item"
+            data-sts="5"
+            @tap="toClassifyPage"
+        >
+          <image src="@/static/images/icon/my-star.png" />
+          <text>我的收藏</text>
         </view>
       </view>
 
@@ -210,9 +210,12 @@
                   <view class="hotprod-text">
                     {{ prod.prodName }}
                   </view>
-<!--                  <view class="prod-info">-->
-<!--                    {{ prod.publisher }}-->
-<!--                  </view>-->
+                  <view class="prod-author">
+                    {{ prod.author }}
+                  </view>
+                  <view class="prod-info">
+                    {{ prod.publisher }}
+                  </view>
                   <view class="prod-text-info">
                     <view class="price">
                       <text class="symbol">
@@ -263,6 +266,9 @@
                 <view class="prod-text-right">
                   <view class="prod-text more">
                     {{ prod.prodName }}
+                  </view>
+                  <view class="prod-author">
+                    {{ prod.author }}
                   </view>
                   <view class="prod-info">
                     {{ prod.publisher }}
@@ -388,12 +394,6 @@ const addToCart = (item) => {
     })
 }
 
-const toCouponCenter = () => {
-  uni.showToast({
-    icon: 'none',
-    title: '该功能未开源'
-  })
-}
 
 /**
  * 跳转搜索页

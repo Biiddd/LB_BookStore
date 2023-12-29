@@ -19,7 +19,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_hot_search")

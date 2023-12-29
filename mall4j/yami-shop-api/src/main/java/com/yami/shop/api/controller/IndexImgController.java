@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @RestController
 @Tag(name = "首页轮播图接口")

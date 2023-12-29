@@ -20,7 +20,7 @@ import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
- * @author lgh
+ * @ lgh
  */
 @SpringBootApplication
 @ComponentScan("com.yami.shop")

@@ -17,7 +17,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_user_addr_order")

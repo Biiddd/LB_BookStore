@@ -20,7 +20,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface ProdCommMapper extends BaseMapper<ProdComm> {
     /**

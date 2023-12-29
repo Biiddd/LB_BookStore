@@ -20,7 +20,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_area")

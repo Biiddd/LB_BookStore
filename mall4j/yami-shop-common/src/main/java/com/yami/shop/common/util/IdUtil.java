@@ -21,7 +21,7 @@ import java.util.Map;
  * 进制转换工具，最大支持十进制和DICT.length()进制的转换
  * 1、将十进制的数字转换为指定进制的字符串；
  * 2、将其它进制的数字（字符串形式）转换为十进制的数字
- * @author xuliugen
+ * @ xuliugen
  * @date 2018/04/23
  */
 @Component

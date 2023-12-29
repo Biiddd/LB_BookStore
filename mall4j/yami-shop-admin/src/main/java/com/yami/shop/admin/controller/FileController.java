@@ -26,7 +26,7 @@ import java.util.Objects;
 
 /**
  * 文件上传 controller
- * @author lgh
+ * @ lgh
  *
  */
 @RestController

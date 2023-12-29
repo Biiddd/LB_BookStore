@@ -28,7 +28,7 @@ import java.util.List;
 
 /**
  * 自定义错误处理器
- * @author LGH
+ * @ LGH
  */
 @Slf4j
 @Controller

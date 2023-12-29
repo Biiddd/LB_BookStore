@@ -15,7 +15,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 public class ShopCartParams {

@@ -20,7 +20,7 @@ import com.yami.shop.service.TransfeeService;
 
 /**
  *
- * @author lgh on 2018/11/16.
+ * @ lgh on 2018/11/16.
  */
 @Service
 public class TransfeeServiceImpl extends ServiceImpl<TransfeeMapper, Transfee> implements TransfeeService {

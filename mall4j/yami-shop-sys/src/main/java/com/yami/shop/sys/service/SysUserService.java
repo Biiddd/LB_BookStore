@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  * 系统用户
- * @author lgh
+ * @ lgh
  */
 public interface SysUserService extends IService<SysUser> {
 

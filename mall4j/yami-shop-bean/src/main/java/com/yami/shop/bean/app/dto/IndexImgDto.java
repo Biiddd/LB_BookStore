@@ -18,7 +18,7 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Schema(description = "首页图片对象")
 @Data

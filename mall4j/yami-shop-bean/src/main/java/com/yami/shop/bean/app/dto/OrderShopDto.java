@@ -22,7 +22,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 /**
  * 订单下的每个店铺
  *
- * @author YaMi
+ * @ YaMi
  */
 @Data
 public class OrderShopDto implements Serializable {

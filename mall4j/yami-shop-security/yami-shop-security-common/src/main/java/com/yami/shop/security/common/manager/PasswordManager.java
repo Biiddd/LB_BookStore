@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 import java.nio.charset.StandardCharsets;
 
 /**
- * @author 菠萝凤梨
+ * @ 菠萝凤梨
  * @date 2022/1/19 16:02
  */
 @Component

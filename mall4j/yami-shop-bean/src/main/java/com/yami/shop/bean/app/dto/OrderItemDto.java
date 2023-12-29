@@ -16,7 +16,7 @@ import lombok.EqualsAndHashCode;
 import java.io.Serializable;
 
 /**
- * @author LGH
+ * @ LGH
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

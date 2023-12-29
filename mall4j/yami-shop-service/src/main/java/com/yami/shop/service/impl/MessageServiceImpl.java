@@ -20,7 +20,7 @@ import com.yami.shop.service.MessageService;
 
 /**
  *
- * @author lgh on 2018/10/15.
+ * @ lgh on 2018/10/15.
  */
 @Service
 public class MessageServiceImpl extends ServiceImpl<MessageMapper, Message> implements MessageService {

@@ -14,7 +14,7 @@ import lombok.Data;
 
 /**
  * 支付信息
- * @author LGH
+ * @ LGH
  */
 @Data
 public class PayInfoDto {

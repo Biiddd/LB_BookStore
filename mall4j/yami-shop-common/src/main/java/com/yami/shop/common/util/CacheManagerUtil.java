@@ -16,7 +16,7 @@ import org.springframework.cache.CacheManager;
 import org.springframework.stereotype.Component;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Component
 @AllArgsConstructor

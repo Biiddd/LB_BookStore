@@ -15,7 +15,7 @@ import com.yami.shop.bean.enums.SmsType;
 import java.util.Map;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public class SmsInfoBo {
 	

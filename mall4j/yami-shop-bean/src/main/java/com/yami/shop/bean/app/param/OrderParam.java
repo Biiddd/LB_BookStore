@@ -17,7 +17,7 @@ import jakarta.validation.constraints.NotNull;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @Schema(description = "订单参数")

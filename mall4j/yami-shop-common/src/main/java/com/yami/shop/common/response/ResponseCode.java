@@ -10,7 +10,7 @@
 package com.yami.shop.common.response;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface ResponseCode {
 

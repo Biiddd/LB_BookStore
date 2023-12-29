@@ -28,7 +28,7 @@ import java.util.List;
 
 /**
  *
- * @author lgh on 2019/03/27.
+ * @ lgh on 2019/03/27.
  */
 @RestController
 @RequestMapping("/admin/hotSearch")

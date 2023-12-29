@@ -22,7 +22,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author lgh on 2018/09/15.
+ * @ lgh on 2018/09/15.
  */
 @Service
 public class MyOrderServiceImpl extends ServiceImpl<OrderMapper, Order> implements MyOrderService {

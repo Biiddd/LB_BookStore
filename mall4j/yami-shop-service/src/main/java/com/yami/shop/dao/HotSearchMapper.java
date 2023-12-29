@@ -17,7 +17,7 @@ import com.yami.shop.bean.model.HotSearch;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface HotSearchMapper extends BaseMapper<HotSearch> {
     /**

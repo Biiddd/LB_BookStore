@@ -8,6 +8,7 @@
         <result property="shopId" column="shop_id"/>
         <result property="oriPrice" column="ori_price"/>
         <result property="price" column="price"/>
+        <result property="author" column="author"/>
         <result property="publisher" column="publisher"/>
         <result property="content" column="content"/>
         <result property="imgs" column="imgs"/>
@@ -52,6 +53,7 @@
         p.`pic`,
         p.`price`,
         p.`ori_price`,
+        p.`author`,
         p.`publisher`,
         p.`imgs`,
         p.`category_id`,
@@ -63,6 +65,7 @@
         p.pic,
         p.prod_name,
         p.price,
+        p.author,
         p.publisher,
         sd.`shop_name`
     </sql>

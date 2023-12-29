@@ -17,7 +17,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.io.IOException;
 
 /**
- * @author lanhai
+ * @ lanhai
  * Created by lgh on 2018/07/27.
  */
 public interface AttachFileService extends IService<AttachFile> {

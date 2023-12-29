@@ -18,7 +18,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface ProdPropMapper extends BaseMapper<ProdProp> {
 

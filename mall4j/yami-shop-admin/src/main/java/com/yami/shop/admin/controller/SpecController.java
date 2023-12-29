@@ -32,7 +32,7 @@ import java.util.Objects;
 /**
  * 规格管理
  *
- * @author lgh
+ * @ lgh
  */
 @RestController
 @RequestMapping("/prod/spec")

@@ -17,7 +17,7 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_sms_log")

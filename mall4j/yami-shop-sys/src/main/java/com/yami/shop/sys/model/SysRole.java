@@ -24,7 +24,7 @@ import java.util.List;
 
 /**
  * 角色
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_sys_role")

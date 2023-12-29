@@ -17,7 +17,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  * 角色与菜单对应关系
  */
 public interface SysRoleMenuMapper extends BaseMapper<SysRoleMenu> {

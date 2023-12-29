@@ -16,7 +16,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Data
 @TableName("tz_transcity")

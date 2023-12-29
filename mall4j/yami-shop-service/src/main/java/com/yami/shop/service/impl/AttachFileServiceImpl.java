@@ -37,7 +37,7 @@ import java.util.Date;
 import java.util.Objects;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Service
 public class AttachFileServiceImpl extends ServiceImpl<AttachFileMapper, AttachFile> implements AttachFileService {

@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author LGH
+ * @ LGH
  */
 @Data
 public class ProductItemDto implements Serializable {

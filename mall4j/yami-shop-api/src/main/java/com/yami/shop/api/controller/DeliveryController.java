@@ -29,7 +29,7 @@ import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.Operation;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @RestController
 @RequestMapping("/delivery")

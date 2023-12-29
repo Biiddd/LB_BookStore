@@ -25,7 +25,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Slf4j
 public class Json {

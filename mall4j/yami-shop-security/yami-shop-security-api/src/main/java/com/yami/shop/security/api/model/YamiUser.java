@@ -13,7 +13,7 @@ import lombok.Data;
 
 /**
  * 用户详细信息
- * @author LGH
+ * @ LGH
  */
 @Data
 public class YamiUser {

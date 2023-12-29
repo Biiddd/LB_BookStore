@@ -11,7 +11,7 @@
 package com.yami.shop.bean.enums;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public enum MessageStatus {
 

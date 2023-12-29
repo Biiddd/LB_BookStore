@@ -13,7 +13,7 @@ package com.yami.shop.bean.app.param;
 import io.swagger.v3.oas.annotations.media.Schema;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 @Schema(description = "登陆参数")
 public class LoginParam {

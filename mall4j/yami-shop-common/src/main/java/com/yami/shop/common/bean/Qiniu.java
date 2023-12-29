@@ -15,7 +15,7 @@ import lombok.Data;
 
 /**
  * 七牛云存储配置信息
- * @author lgh
+ * @ lgh
  */
 @Data
 public class Qiniu {

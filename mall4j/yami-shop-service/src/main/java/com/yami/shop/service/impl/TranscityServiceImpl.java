@@ -22,7 +22,7 @@ import com.yami.shop.service.TranscityService;
 
 /**
  *
- * @author lgh on 2018/11/16.
+ * @ lgh on 2018/11/16.
  */
 @Service
 public class TranscityServiceImpl extends ServiceImpl<TranscityMapper, Transcity> implements TranscityService {

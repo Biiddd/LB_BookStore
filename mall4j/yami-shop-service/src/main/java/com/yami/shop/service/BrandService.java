@@ -16,7 +16,7 @@ import com.yami.shop.bean.model.Brand;
 import java.util.List;
 
 /**
- * @author lanhai
+ * @ lanhai
  */
 public interface BrandService extends IService<Brand> {
 
