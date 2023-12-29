@@ -63,10 +63,6 @@ onLoad((options) => {
     uni.setNavigationBarTitle({
       title: '每日疯抢'
     })
-  } else if (sts.value == 4) {
-    uni.setNavigationBarTitle({
-      title: '优惠券活动商品'
-    })
   } else if (sts.value == 5) {
     uni.setNavigationBarTitle({
       title: '我的收藏商品'

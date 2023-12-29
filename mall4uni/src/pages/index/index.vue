@@ -74,13 +74,6 @@
           <image src="@/static/images/icon/neweveryday.png" />
           <text>每日疯抢</text>
         </view>
-        <view
-          class="item"
-          @tap="toCouponCenter"
-        >
-          <image src="@/static/images/icon/newprods.png" />
-          <text>领优惠券</text>
-        </view>
       </view>
 
       <!-- 消息播放 -->
@@ -217,9 +210,9 @@
                   <view class="hotprod-text">
                     {{ prod.prodName }}
                   </view>
-                  <view class="prod-info">
-                    {{ prod.publisher }}
-                  </view>
+<!--                  <view class="prod-info">-->
+<!--                    {{ prod.publisher }}-->
+<!--                  </view>-->
                   <view class="prod-text-info">
                     <view class="price">
                       <text class="symbol">
