@@ -190,7 +190,7 @@
   "globalStyle": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "LB购书商城",
     "navigationBarTextStyle": "black"
   },
   "subPackages": []

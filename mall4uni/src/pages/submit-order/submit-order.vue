@@ -198,72 +198,72 @@
     </view>
 
     <!-- 选择优惠券弹窗 -->
-    <view
-      v-if="popupShow"
-      class="popup-hide"
-    >
-      <view class="popup-box">
-        <view class="popup-tit">
-          <text>优惠券</text>
-          <text
-            class="close"
-            @tap="closePopup"
-          />
-        </view>
-        <view class="coupon-tabs">
-          <view
-            :class="'coupon-tab ' + (couponSts==1?'on':'')"
-            data-sts="1"
-            @tap="changeCouponSts"
-          >
-            可用优惠券({{ coupons.canUseCoupons.length ? coupons.canUseCoupons.length : 0 }})
-          </view>
-          <view
-            :class="'coupon-tab ' + (couponSts==2?'on':'')"
-            data-sts="2"
-            @tap="changeCouponSts"
-          >
-            不可用优惠券({{ coupons.unCanUseCoupons.length ? coupons.unCanUseCoupons.length : 0 }})
-          </view>
-        </view>
-        <view class="popup-cnt">
-          <block v-if="couponSts == 1">
-            <view
-              v-for="(item, index) in coupons.canUseCoupons"
-              :key="index"
-            >
-              <coupon
-                :item="item"
-                order="true"
-                can-use="true"
-                @check-coupon="checkCoupon"
-              />
-            </view>
-          </block>
-          <block v-if="couponSts == 2">
-            <view
-              v-for="(item, index) in coupons.unCanUseCoupons"
-              :key="index"
-            >
-              <coupon
-                :item="item"
-                order="true"
-                can-use="false"
-              />
-            </view>
-          </block>
-          <view class="botm-empty" />
-        </view>
-        <view
-          v-if="couponSts==1"
-          class="coupon-ok"
-        >
-          <text @tap="choosedCoupon">
-            确定
-          </text>
-        </view>
-      </view>
-    </view>
+<!--    <view-->
+<!--      v-if="popupShow"-->
+<!--      class="popup-hide"-->
+<!--    >-->
+<!--      <view class="popup-box">-->
+<!--        <view class="popup-tit">-->
+<!--          <text>优惠券</text>-->
+<!--          <text-->
+<!--            class="close"-->
+<!--            @tap="closePopup"-->
+<!--          />-->
+<!--        </view>-->
+<!--        <view class="coupon-tabs">-->
+<!--          <view-->
+<!--            :class="'coupon-tab ' + (couponSts==1?'on':'')"-->
+<!--            data-sts="1"-->
+<!--            @tap="changeCouponSts"-->
+<!--          >-->
+<!--            可用优惠券({{ coupons.canUseCoupons.length ? coupons.canUseCoupons.length : 0 }})-->
+<!--          </view>-->
+<!--          <view-->
+<!--            :class="'coupon-tab ' + (couponSts==2?'on':'')"-->
+<!--            data-sts="2"-->
+<!--            @tap="changeCouponSts"-->
+<!--          >-->
+<!--            不可用优惠券({{ coupons.unCanUseCoupons.length ? coupons.unCanUseCoupons.length : 0 }})-->
+<!--          </view>-->
+<!--        </view>-->
+<!--        <view class="popup-cnt">-->
+<!--          <block v-if="couponSts == 1">-->
+<!--            <view-->
+<!--              v-for="(item, index) in coupons.canUseCoupons"-->
+<!--              :key="index"-->
+<!--            >-->
+<!--              <coupon-->
+<!--                :item="item"-->
+<!--                order="true"-->
+<!--                can-use="true"-->
+<!--                @check-coupon="checkCoupon"-->
+<!--              />-->
+<!--            </view>-->
+<!--          </block>-->
+<!--          <block v-if="couponSts == 2">-->
+<!--            <view-->
+<!--              v-for="(item, index) in coupons.unCanUseCoupons"-->
+<!--              :key="index"-->
+<!--            >-->
+<!--              <coupon-->
+<!--                :item="item"-->
+<!--                order="true"-->
+<!--                can-use="false"-->
+<!--              />-->
+<!--            </view>-->
+<!--          </block>-->
+<!--          <view class="botm-empty" />-->
+<!--        </view>-->
+<!--        <view-->
+<!--          v-if="couponSts==1"-->
+<!--          class="coupon-ok"-->
+<!--        >-->
+<!--          <text @tap="choosedCoupon">-->
+<!--            确定-->
+<!--          </text>-->
+<!--        </view>-->
+<!--      </view>-->
+<!--    </view>-->
   </view>
 </template>
 

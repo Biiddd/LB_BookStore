@@ -153,22 +153,6 @@
               </text>
             </view>
           </view>
-          <view class="item">
-            <view class="item-tit">
-              优惠券：
-            </view>
-            <view class="item-txt price">
-              <text class="symbol">
-                -￥
-              </text>
-              <text class="big-num">
-                {{ wxs.parsePrice(reduceAmount)[0] }}
-              </text>
-              <text class="small-num">
-                .{{ wxs.parsePrice(reduceAmount)[1] }}
-              </text>
-            </view>
-          </view>
           <view class="item payment">
             <view class="item-txt price">
               实付款：

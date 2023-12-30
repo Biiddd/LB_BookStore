@@ -103,6 +103,9 @@
               <view class="cate-prod-info">
                 {{ item.praiseNumber }}评价 {{ item.positiveRating }}%好评
               </view>
+              <view class="prod-author">
+                {{ item.author }}
+              </view>
               <view class="prod-price more">
                 <text class="symbol">
                   ￥

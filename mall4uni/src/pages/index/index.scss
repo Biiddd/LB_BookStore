@@ -300,6 +300,13 @@ swiper-item {
     }
     margin-top: 20rpx;
     padding: 0 10rpx;
+    .prod-author {
+      font-size: 22rpx;
+      color: #999;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
     .prod-info {
       font-size: 22rpx;
       color: #999;
@@ -330,6 +337,13 @@ swiper-item {
 }
 .more-prod {
   .prod-text-right {
+    .prod-author {
+      font-size: 22rpx;
+      color: #999;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
     .prod-info {
       font-size: 22rpx;
       color: #999;
