@@ -7,6 +7,8 @@
   background: #fff;
   box-shadow: 0 2rpx 6rpx rgba(0, 0, 0, 0.07);
   z-index: 3;
+  height: calc(100% - 30px);
+  top: 30px;
   .search-box {
     position: relative;
     height: 60rpx;
