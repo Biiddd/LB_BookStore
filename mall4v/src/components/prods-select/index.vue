@@ -1,7 +1,7 @@
 <template>
   <el-dialog
     v-model="visible"
-    title="选择商品"
+    title="选择图书"
     :modal="false"
     :close-on-click-modal="false"
   >
@@ -42,12 +42,12 @@
         prop="prodName"
         header-align="center"
         align="center"
-        label="产品名称"
+        label="书名"
       />
       <el-table-column
         align="center"
         width="140"
-        label="产品图片"
+        label="图书图片"
       >
         <template #default="scope">
           <img

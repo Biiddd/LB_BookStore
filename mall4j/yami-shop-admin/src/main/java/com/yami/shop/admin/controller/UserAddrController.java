@@ -1,5 +1,3 @@
-
-
 package com.yami.shop.admin.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
@@ -15,12 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 import jakarta.validation.Valid;
 
-/**
- * 用户地址管理
- *
- * @ hzm
- * @date 2019-04-15 10:49:40
- */
+
 @RestController
 @AllArgsConstructor
 @RequestMapping("/user/addr")

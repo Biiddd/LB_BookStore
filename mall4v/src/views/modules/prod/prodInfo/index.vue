@@ -5,7 +5,7 @@
       :model="dataForm"
       label-width="100px"
     >
-      <el-form-item label="产品图片">
+      <el-form-item label="图书图片">
         <mul-pic-upload v-model="dataForm.imgs" />
       </el-form-item>
       <el-form-item label="状态">
@@ -19,8 +19,8 @@
         </el-radio-group>
       </el-form-item>
       <el-form-item
-        label="产品分类"
-        :rules="[{ required: true, message: '请选择产品分类'}]"
+        label="图书分类"
+        :rules="[{ required: true, message: '请选择图书分类'}]"
         prop="categoryId"
       >
         <el-col :span="8">
@@ -35,8 +35,8 @@
         </el-col>
       </el-form-item>
       <el-form-item
-        label="产品分组"
-        :rules="[{ required: true, message: '请选择产品分组'}]"
+        label="图书分组"
+        :rules="[{ required: true, message: '请选择图书分组'}]"
       >
         <el-col :span="8">
           <el-select
@@ -55,17 +55,17 @@
         </el-col>
       </el-form-item>
       <el-form-item
-        label="产品名称"
+        label="书名"
         prop="prodName"
         :rules="[
-          { required: true, message: '产品名称不能为空'},
-          { pattern: /\s\S+|S+\s|\S/, message: '请输入正确的产品名称', trigger: 'blur' }
+          { required: true, message: '书名不能为空'},
+          { pattern: /\s\S+|S+\s|\S/, message: '请输入正确的书名', trigger: 'blur' }
         ]"
       >
         <el-col :span="8">
           <el-input
             v-model="dataForm.prodName"
-            placeholder="产品名称"
+            placeholder="书名"
             maxlength="50"
           />
         </el-col>
@@ -123,7 +123,7 @@
         :prod-name="dataForm.prodName"
       />
       <el-form-item
-        label="产品详情"
+        label="图书详情"
         prop="content"
       >
         <tiny-mce

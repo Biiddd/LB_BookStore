@@ -20,20 +20,26 @@ export const tableOption = {
     value: 'value'
   },
   column: [{
-    label: '产品名字',
+    label: '书名',
     prop: 'prodName',
     search: true
   }, {
-    label: '商品原价',
+    label: '作者',
+    prop: 'author'
+  }, {
+    label: '出版社',
+    prop: 'publisher'
+  }, {
+    label: '原价',
     prop: 'oriPrice'
   }, {
-    label: '商品现价',
+    label: '现价',
     prop: 'price'
   }, {
-    label: '商品库存',
+    label: '库存',
     prop: 'totalStocks'
   }, {
-    label: '产品图片',
+    label: '图书图片',
     prop: 'pic',
     type: 'upload',
     width: 150,

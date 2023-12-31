@@ -43,6 +43,10 @@
           </el-form-item>
         </el-form>
       </div>
+      <div class="specific">
+        <p>由于家宽无公网IPv4地址</p>
+        为保证带宽，该站为IPv6单栈站点
+      </div>
       <div class="bottom">
         Copyright © 2024 李佳宣 詹子阳 Happy New Year
       </div>
@@ -183,6 +187,12 @@ const getCaptcha = () => {
           border-radius: 3px;
         }
       }
+    }
+    .specific {
+      font-size: 20px;
+      margin-top: 20px;
+      text-align: center;
+      color: #999;
     }
     .bottom {
       position: absolute;
