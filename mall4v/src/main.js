@@ -15,6 +15,7 @@ import '@/styles/index.scss'
 // svg
 import 'virtual:svg-icons-register'
 import svgIcon from '@/icons/SvgIcon.vue'
+
 moment.locale('zh-cn', {
   longDateFormat: {
     LT: 'HH:mm',

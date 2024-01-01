@@ -1,13 +1,15 @@
+import echarts from 'echarts'
+
 <template>
-  <div class="mod-home">
+  <div class='mod-home'>
     <p>一个基于spring boot、spring oauth2.0、mybatis、redis的轻量级、前后端分离购书商城</p>
     <p>&nbsp;</p>
     <h2>技术选型</h2>
     <figure>
       <table
-        border="1"
-        cellspacing="0"
-        cellpadding="5px"
+        border='1'
+        cellspacing='0'
+        cellpadding='5px'
       >
         <thead>
           <tr>
@@ -74,9 +76,9 @@
     <h3>1.开发环境</h3>
     <figure>
       <table
-        border="1"
-        cellspacing="0"
-        cellpadding="5px"
+        border='1'
+        cellspacing='0'
+        cellpadding='5px'
       >
         <thead>
           <tr>
@@ -104,7 +106,7 @@
   </div>
 </template>
 
-<style lang="scss" scoped>
+<style lang='scss' scoped>
 .mod-home {
   line-height: 1.5;
 }
