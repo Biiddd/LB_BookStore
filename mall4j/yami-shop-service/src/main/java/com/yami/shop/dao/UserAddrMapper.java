@@ -8,9 +8,7 @@ import com.yami.shop.bean.model.UserAddr;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
-/**
- * @ lanhai
- */
+
 public interface UserAddrMapper extends BaseMapper<UserAddr> {
 	/**
 	 * 根据用户id获取默认地址

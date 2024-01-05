@@ -5,9 +5,7 @@ package com.yami.shop.service;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.yami.shop.bean.model.UserAddr;
 
-/**
- * @ lanhai
- */
+
 public interface UserAddrService extends IService<UserAddr> {
 	/**
 	 * 获取用户默认地址

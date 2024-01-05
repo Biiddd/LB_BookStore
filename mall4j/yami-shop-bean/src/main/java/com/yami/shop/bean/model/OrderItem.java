@@ -10,9 +10,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_order_item")
 public class OrderItem implements Serializable {

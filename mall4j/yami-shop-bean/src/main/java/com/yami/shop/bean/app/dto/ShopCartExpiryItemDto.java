@@ -7,9 +7,7 @@ import lombok.Data;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @Data
 @Schema(description = "购物车失效商品对象")
 public class ShopCartExpiryItemDto {

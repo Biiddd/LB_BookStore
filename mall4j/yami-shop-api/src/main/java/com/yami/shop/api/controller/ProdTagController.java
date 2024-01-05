@@ -16,9 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @RestController
 @RequestMapping("/prod/tag")
 @Tag(name = "商品分组标签接口")

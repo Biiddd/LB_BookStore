@@ -7,9 +7,7 @@ import lombok.Data;
 
 import jakarta.validation.constraints.NotNull;
 
-/**
- * @ lanhai
- */
+
 @Data
 @Schema(description = "添加评论信息")
 public class ProdCommParam {

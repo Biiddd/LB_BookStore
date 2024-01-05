@@ -6,9 +6,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ lanhai
- */
+
 @Data
 public class CouponOrderDto implements Serializable {
 

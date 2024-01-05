@@ -7,9 +7,7 @@ import com.yami.shop.bean.model.Category;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface CategoryMapper extends BaseMapper<Category> {
 
 	/**

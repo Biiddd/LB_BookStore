@@ -5,9 +5,7 @@ package com.yami.shop.bean.param;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 
-/**
- * @ lanhai
- */
+
 public class ShopDetailParam {
 
 

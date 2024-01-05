@@ -8,9 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.yami.shop.bean.model.UserAddrOrder;
 import com.yami.shop.service.UserAddrOrderService;
-/**
- * @ lanhai
- */
+
 @Service
 public class UserAddrOrderServiceImpl extends ServiceImpl<UserAddrOrderMapper, UserAddrOrder> implements UserAddrOrderService{
 

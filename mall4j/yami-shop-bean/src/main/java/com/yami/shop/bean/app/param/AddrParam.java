@@ -6,9 +6,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 
 import jakarta.validation.constraints.NotNull;
 
-/**
- * @ lanhai
- */
+
 @Schema(description = "地址参数")
 public class AddrParam {
 

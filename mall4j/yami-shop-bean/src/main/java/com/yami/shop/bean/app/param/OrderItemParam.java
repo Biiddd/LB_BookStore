@@ -8,9 +8,7 @@ import lombok.Data;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
 
-/**
- * @ lanhai
- */
+
 @Data
 @Schema(description = "购物车物品参数")
 public class OrderItemParam {

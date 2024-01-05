@@ -10,9 +10,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_message")
 public class Message implements Serializable {

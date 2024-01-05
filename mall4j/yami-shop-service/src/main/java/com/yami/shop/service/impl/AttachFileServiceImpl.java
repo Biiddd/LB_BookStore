@@ -28,9 +28,7 @@ import java.io.IOException;
 import java.util.Date;
 import java.util.Objects;
 
-/**
- * @ lanhai
- */
+
 @Service
 public class AttachFileServiceImpl extends ServiceImpl<AttachFileMapper, AttachFile> implements AttachFileService {
 

@@ -2,9 +2,7 @@
 
 package com.yami.shop.bean.enums;
 
-/**
- * @ lanhai
- */
+
 public enum PayType {
 
 	/** 微信支付*/

@@ -7,9 +7,7 @@ import lombok.Data;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @Data
 @Schema(description = "提交订单参数")
 public class SubmitOrderParam {

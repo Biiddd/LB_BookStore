@@ -8,9 +8,7 @@ import lombok.Data;
 
 import java.util.Date;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_sms_log")
 public class SmsLog {

@@ -15,9 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @RestController
 @Tag(name = "首页轮播图接口")
 public class IndexImgController {

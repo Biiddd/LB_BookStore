@@ -7,9 +7,7 @@ import lombok.Data;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @Data
 @Schema(description = "我的订单")
 public class MyOrderDto {

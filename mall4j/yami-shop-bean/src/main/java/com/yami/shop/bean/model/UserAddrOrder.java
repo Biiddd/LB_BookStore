@@ -8,9 +8,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 import java.util.Date;
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_user_addr_order")
 public class UserAddrOrder implements Serializable {

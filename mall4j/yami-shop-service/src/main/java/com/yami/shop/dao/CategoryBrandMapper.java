@@ -8,9 +8,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface CategoryBrandMapper extends BaseMapper<CategoryBrand> {
 
 	/**

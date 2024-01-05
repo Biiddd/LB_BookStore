@@ -15,9 +15,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface OrderMapper extends BaseMapper<Order> {
 
     /**

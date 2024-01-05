@@ -8,9 +8,7 @@ import lombok.Data;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @Data
 public class ProductDto {
     /**

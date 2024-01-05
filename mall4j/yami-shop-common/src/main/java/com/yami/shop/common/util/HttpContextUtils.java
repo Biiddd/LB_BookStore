@@ -7,9 +7,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 
 import jakarta.servlet.http.HttpServletRequest;
 
-/**
- * @ lanhai
- */
+
 public class HttpContextUtils {
 
 	public static HttpServletRequest getHttpServletRequest() {

@@ -10,9 +10,7 @@ import lombok.Data;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @Data
 public class ProductDto {
     /**

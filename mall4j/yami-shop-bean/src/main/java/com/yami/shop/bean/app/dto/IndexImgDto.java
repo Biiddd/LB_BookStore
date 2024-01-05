@@ -9,9 +9,7 @@ import lombok.Data;
 
 import java.util.Date;
 
-/**
- * @ lanhai
- */
+
 @Schema(description = "首页图片对象")
 @Data
 public class IndexImgDto {

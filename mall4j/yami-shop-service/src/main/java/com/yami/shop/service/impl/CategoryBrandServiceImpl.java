@@ -10,9 +10,7 @@ import com.yami.shop.bean.model.CategoryBrand;
 import com.yami.shop.dao.CategoryBrandMapper;
 import com.yami.shop.service.CategoryBrandService;
 
-/**
- * @ lanhai
- */
+
 @Service
 public class CategoryBrandServiceImpl extends ServiceImpl<CategoryBrandMapper, CategoryBrand> implements CategoryBrandService {
 

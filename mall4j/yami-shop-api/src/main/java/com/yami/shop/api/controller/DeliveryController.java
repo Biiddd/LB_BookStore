@@ -20,9 +20,7 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.Operation;
 
-/**
- * @ lanhai
- */
+
 @RestController
 @RequestMapping("/delivery")
 @Tag(name = "查看物流接口")

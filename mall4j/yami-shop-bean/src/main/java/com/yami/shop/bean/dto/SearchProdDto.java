@@ -6,9 +6,7 @@ import com.yami.shop.common.serializer.json.ImgJsonSerializer;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 
-/**
- * @ lanhai
- */
+
 @Data
 @Schema(description = "搜索商品数据")
 public class SearchProdDto {

@@ -21,9 +21,7 @@ import org.springframework.transaction.annotation.Transactional;
 import jakarta.validation.Valid;
 import java.util.Objects;
 
-/**
- * @ lanhai
- */
+
 @Service
 public class ProdPropServiceImpl extends ServiceImpl<ProdPropMapper, ProdProp> implements ProdPropService {
 

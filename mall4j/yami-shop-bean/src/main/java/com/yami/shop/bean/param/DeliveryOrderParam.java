@@ -6,9 +6,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 
 import jakarta.validation.constraints.NotBlank;
 
-/**
- * @ lanhai
- */
+
 public class DeliveryOrderParam {
 
 	@NotBlank(message="订单号不能为空")

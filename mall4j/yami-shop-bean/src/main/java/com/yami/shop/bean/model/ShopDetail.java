@@ -7,9 +7,7 @@ import java.util.Date;
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_shop_detail")
 public class ShopDetail implements Serializable{

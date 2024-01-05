@@ -10,9 +10,7 @@ import com.yami.shop.bean.model.CategoryProp;
 import com.yami.shop.dao.CategoryPropMapper;
 import com.yami.shop.service.CategoryPropService;
 
-/**
- * @ lanhai
- */
+
 @Service
 public class CategoryPropServiceImpl extends ServiceImpl<CategoryPropMapper, CategoryProp> implements CategoryPropService {
 

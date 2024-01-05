@@ -10,9 +10,7 @@ import com.yami.shop.bean.model.ProdPropValue;
 import com.yami.shop.dao.ProdPropValueMapper;
 import com.yami.shop.service.ProdPropValueService;
 
-/**
- * @ lanhai
- */
+
 @Service
 public class ProdPropValueServiceImpl extends ServiceImpl<ProdPropValueMapper, ProdPropValue> implements ProdPropValueService {
 

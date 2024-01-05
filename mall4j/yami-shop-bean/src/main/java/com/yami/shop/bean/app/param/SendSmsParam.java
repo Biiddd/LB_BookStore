@@ -6,9 +6,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 
 import jakarta.validation.constraints.Pattern;
 
-/**
- * @ lanhai
- */
+
 @Schema(description = "发送验证码参数")
 public class SendSmsParam {
 

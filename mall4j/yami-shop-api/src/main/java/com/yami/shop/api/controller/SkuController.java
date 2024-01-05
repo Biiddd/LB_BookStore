@@ -18,9 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @RestController
 @RequestMapping("/sku")
 @Tag(name = "sku规格接口")

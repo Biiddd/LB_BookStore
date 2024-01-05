@@ -11,9 +11,7 @@ import com.yami.shop.bean.model.ProdComm;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Param;
 
-/**
- * @ lanhai
- */
+
 public interface ProdCommMapper extends BaseMapper<ProdComm> {
     /**
      * 根据商品id获取商品评论信息

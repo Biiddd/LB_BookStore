@@ -7,9 +7,7 @@ import lombok.Data;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
-/**
- * @ lanhai
- */
+
 @Data
 @Schema(description = "更新密码参数")
 public class UpdatePasswordDto {

@@ -23,9 +23,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Date;
 import java.util.Objects;
-/**
- * @ lanhai
- */
+
 @RestController
 @RequestMapping("/p/user/collection")
 @Tag(name = "收藏接口")

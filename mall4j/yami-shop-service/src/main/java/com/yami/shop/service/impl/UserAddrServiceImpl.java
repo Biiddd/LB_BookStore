@@ -13,9 +13,7 @@ import com.yami.shop.bean.model.UserAddr;
 import com.yami.shop.common.exception.YamiShopBindException;
 import com.yami.shop.dao.UserAddrMapper;
 import com.yami.shop.service.UserAddrService;
-/**
- * @ lanhai
- */
+
 @Service
 public class UserAddrServiceImpl extends ServiceImpl<UserAddrMapper, UserAddr> implements UserAddrService {
 

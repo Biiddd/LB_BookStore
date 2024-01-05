@@ -9,9 +9,7 @@ import com.yami.shop.bean.bo.SmsInfoBo;
 
 import cn.hutool.core.collection.CollectionUtil;
 
-/**
- * @ lanhai
- */
+
 public class SmsInfoContext {
 
 	/** The request holder. */

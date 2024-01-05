@@ -5,9 +5,7 @@ import lombok.Data;
 
 import jakarta.validation.constraints.NotEmpty;
 
-/**
- * @ lanhai
- */
+
 @Data
 public class OrderRefundExpressParam {
 

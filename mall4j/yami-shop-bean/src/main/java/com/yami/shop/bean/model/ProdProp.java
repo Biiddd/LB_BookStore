@@ -12,9 +12,7 @@ import jakarta.validation.constraints.NotEmpty;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_prod_prop")
 public class ProdProp implements Serializable {

@@ -11,9 +11,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 
 import java.util.Date;
 
-/**
- * @ lanhai
- */
+
 @Schema(description = "评论对象")
 @Data
 public class ProdCommDto {

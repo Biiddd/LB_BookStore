@@ -8,9 +8,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface OrderSettlementMapper extends BaseMapper<OrderSettlement> {
 	/**
 	 * 更新订单结算

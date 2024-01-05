@@ -20,9 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @RestController
 @RequestMapping("/shop/notice")
 @Tag(name = "公告管理接口")

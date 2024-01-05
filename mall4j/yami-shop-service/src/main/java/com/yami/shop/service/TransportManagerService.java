@@ -5,9 +5,7 @@ package com.yami.shop.service;
 import com.yami.shop.bean.app.dto.ProductItemDto;
 import com.yami.shop.bean.model.UserAddr;
 
-/**
- * @ lanhai
- */
+
 public interface TransportManagerService {
 	/**
 	 * 计算运费

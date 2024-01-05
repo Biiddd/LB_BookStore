@@ -5,9 +5,7 @@ package com.yami.shop.common.util;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-/**
- * @ lanhai
- */
+
 public class Arith {
     /**
      * 默认除法运算精度

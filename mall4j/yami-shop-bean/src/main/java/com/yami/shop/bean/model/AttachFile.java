@@ -9,9 +9,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_attach_file")
 public class AttachFile implements Serializable {

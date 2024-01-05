@@ -6,9 +6,7 @@ import com.yami.shop.common.response.ResponseEnum;
 import com.yami.shop.common.response.ServerResponseEntity;
 import lombok.Getter;
 
-/**
- * @ lanhai
- */
+
 @Getter
 public class YamiShopBindException extends RuntimeException{
 

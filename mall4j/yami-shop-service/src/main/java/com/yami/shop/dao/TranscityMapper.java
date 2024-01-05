@@ -9,9 +9,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface TranscityMapper extends BaseMapper<Transcity> {
 	/**
 	 * 插入运费项中的城市

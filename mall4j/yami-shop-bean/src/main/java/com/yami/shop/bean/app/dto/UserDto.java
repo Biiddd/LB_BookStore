@@ -3,9 +3,7 @@
 package com.yami.shop.bean.app.dto;
 
 import io.swagger.v3.oas.annotations.media.Schema;
-/**
- * @ lanhai
- */
+
 public class UserDto {
 
 

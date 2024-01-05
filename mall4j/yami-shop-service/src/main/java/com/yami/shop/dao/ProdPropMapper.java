@@ -9,9 +9,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface ProdPropMapper extends BaseMapper<ProdProp> {
 
     /**

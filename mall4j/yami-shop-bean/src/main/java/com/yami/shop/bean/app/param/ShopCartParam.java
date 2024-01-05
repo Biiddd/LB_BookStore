@@ -5,9 +5,7 @@ package com.yami.shop.bean.app.param;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 
-/**
- * @ lanhai
- */
+
 @Schema(description = "购物车参数")
 @Data
 public class ShopCartParam {

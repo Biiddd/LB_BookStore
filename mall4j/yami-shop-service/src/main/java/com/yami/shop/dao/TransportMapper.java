@@ -9,9 +9,7 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface TransportMapper extends BaseMapper<Transport> {
 	/**
 	 * 根据运费模板id获取运费项和运费城市

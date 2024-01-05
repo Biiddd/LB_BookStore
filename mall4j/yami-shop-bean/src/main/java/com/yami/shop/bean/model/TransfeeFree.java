@@ -10,9 +10,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 import java.util.List;
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_transfee_free")
 public class TransfeeFree implements Serializable {

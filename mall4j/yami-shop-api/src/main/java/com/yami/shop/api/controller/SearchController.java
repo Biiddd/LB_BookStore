@@ -23,9 +23,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @RestController
 @RequestMapping("/search")
 @Tag(name = "搜索接口")

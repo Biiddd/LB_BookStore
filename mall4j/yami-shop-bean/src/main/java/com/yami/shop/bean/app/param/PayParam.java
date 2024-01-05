@@ -7,9 +7,7 @@ import jakarta.validation.constraints.NotNull;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 
-/**
- * @ lanhai
- */
+
 @Schema(description = "支付参数")
 public class PayParam {
 

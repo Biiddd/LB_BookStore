@@ -6,9 +6,7 @@ import com.yami.shop.bean.enums.SmsType;
 
 import java.util.Map;
 
-/**
- * @ lanhai
- */
+
 public class SmsInfoBo {
 	
 	private SmsType smsType;

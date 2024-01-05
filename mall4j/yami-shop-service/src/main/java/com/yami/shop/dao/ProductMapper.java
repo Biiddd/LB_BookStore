@@ -15,9 +15,6 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @ lanhai
- */
 public interface ProductMapper extends BaseMapper<Product> {
     /**
      * 更新商品库存

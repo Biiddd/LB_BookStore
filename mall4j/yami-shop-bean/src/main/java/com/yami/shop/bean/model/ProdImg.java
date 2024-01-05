@@ -8,9 +8,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_prod_img")
 public class ProdImg implements Serializable {

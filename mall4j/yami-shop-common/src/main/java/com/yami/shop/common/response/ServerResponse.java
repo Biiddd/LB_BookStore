@@ -7,9 +7,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Objects;
 
-/**
- * @ lanhai
- */
+
 @Data
 public class ServerResponse<T> implements Serializable {
 

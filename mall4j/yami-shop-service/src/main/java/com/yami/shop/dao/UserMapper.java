@@ -6,9 +6,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.yami.shop.bean.model.User;
 import org.apache.ibatis.annotations.Param;
 
-/**
- * @ lanhai
- */
+
 public interface UserMapper extends BaseMapper<User> {
 	/**
 	 * 根据用户邮箱获取用户信息

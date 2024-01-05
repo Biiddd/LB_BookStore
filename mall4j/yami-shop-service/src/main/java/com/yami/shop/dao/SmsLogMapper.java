@@ -7,9 +7,7 @@ import org.apache.ibatis.annotations.Param;
 import com.yami.shop.bean.model.SmsLog;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
-/**
- * @ lanhai
- */
+
 public interface SmsLogMapper extends BaseMapper<SmsLog> {
 	/**
 	 * 根据手机号和短信类型失效短信

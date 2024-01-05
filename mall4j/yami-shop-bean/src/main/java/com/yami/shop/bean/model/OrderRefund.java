@@ -10,9 +10,7 @@ import java.util.List;
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_order_refund")
 public class OrderRefund implements Serializable {

@@ -7,9 +7,7 @@ import com.yami.shop.bean.model.Brand;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface BrandService extends IService<Brand> {
 
 	/**

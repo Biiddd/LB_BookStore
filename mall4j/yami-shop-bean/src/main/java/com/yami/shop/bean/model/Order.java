@@ -12,9 +12,7 @@ import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_order")
 public class Order implements Serializable {

@@ -7,9 +7,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_pick_addr")
 public class PickAddr implements Serializable {

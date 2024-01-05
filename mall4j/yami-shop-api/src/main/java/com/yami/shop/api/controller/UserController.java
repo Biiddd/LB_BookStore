@@ -13,9 +13,7 @@ import lombok.AllArgsConstructor;
 import cn.hutool.core.bean.BeanUtil;
 import com.yami.shop.common.response.ServerResponseEntity;
 import org.springframework.web.bind.annotation.*;
-/**
- * @ lanhai
- */
+
 @RestController
 @RequestMapping("/p/user")
 @Tag(name = "用户接口")

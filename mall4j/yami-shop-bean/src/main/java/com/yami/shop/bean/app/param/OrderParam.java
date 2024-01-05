@@ -8,9 +8,7 @@ import lombok.Data;
 import jakarta.validation.constraints.NotNull;
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 @Data
 @Schema(description = "订单参数")
 public class OrderParam {

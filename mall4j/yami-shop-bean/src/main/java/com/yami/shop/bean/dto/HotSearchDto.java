@@ -8,9 +8,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ lanhai
- */
+
 @Schema(description = "热搜数据")
 @Data
 public class HotSearchDto implements Serializable {

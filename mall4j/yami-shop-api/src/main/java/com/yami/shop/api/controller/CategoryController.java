@@ -20,9 +20,7 @@ import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.Operation;
 import cn.hutool.core.bean.BeanUtil;
 
-/**
- * @ lanhai
- */
+
 @RestController
 @RequestMapping("/category")
 @Tag(name = "分类接口")

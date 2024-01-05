@@ -7,9 +7,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_category_prop")
 public class CategoryProp implements Serializable {

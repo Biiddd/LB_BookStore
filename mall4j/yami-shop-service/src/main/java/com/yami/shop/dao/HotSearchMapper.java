@@ -8,9 +8,7 @@ import com.yami.shop.bean.model.HotSearch;
 
 import java.util.List;
 
-/**
- * @ lanhai
- */
+
 public interface HotSearchMapper extends BaseMapper<HotSearch> {
     /**
      * 根据店铺id获取热搜列表

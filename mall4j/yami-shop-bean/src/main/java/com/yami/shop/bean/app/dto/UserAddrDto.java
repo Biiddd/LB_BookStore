@@ -6,9 +6,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 
 import java.io.Serializable;
-/**
- * @ lanhai
- */
+
 @Data
 public class UserAddrDto implements Serializable {
         @Schema(description = "地址id" , required = true)

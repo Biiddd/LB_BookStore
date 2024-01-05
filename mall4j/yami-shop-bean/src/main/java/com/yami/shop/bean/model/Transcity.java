@@ -7,9 +7,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * @ lanhai
- */
+
 @Data
 @TableName("tz_transcity")
 public class Transcity implements Serializable {
