@@ -9,6 +9,7 @@
     "dev:test": "vite --mode testing",
     "build": "vite build",
     "build:test": "vite build --mode testing",
+    "build:prod": "vite build --mode production",
     "lint": "eslint --ext .js,.vue src",
     "lint:fix": "eslint --fix --ext .js,.vue src",
     "preview": "vite preview",
