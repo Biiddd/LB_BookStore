@@ -25,10 +25,12 @@ export const tableOption = {
     search: true
   }, {
     label: '作者',
-    prop: 'author'
+    prop: 'author',
+    search: true
   }, {
     label: '出版社',
-    prop: 'publisher'
+    prop: 'publisher',
+    search: true
   }, {
     label: '原价',
     prop: 'oriPrice'
